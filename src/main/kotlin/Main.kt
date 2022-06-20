@@ -20,6 +20,8 @@ fun App() {
 
 fun showGrid() {
     for (i in 1..8){
+        //test
+        //test
         println(i)
     }
 }
