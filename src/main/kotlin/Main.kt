@@ -17,6 +17,7 @@ val square_size = 60.dp
 fun main() = application {
     Window(onCloseRequest = ::exitApplication) {
         MaterialTheme {
+            // psh test
             App()
         }
     }
